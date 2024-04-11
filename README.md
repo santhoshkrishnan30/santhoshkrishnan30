@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Santhosh Krishnan (@santhoshkrishnan30)
+- 👀 I’m interested in data science, machine learning, and Data Engineering.
+- 🌱 I’m currently learning advanced techniques in data engineering.
+- 💞️ I’m looking to collaborate on projects related to predictive analytics and AI-driven solutions.
+- 📫 How to reach me: [Email](mailto:santhoshkrishnan3006@gmail.com) | [LinkedIn](www.linkedin.com/in/santhoshkrish03)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact:I love to play cricket and listening to music🎧
