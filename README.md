@@ -12,7 +12,7 @@
  - 😄 Pronouns: He/Him
  - ⚡ Fun fact: I love playing cricket🏏 and listening to music 🎧.
 
-###
+### **Tools and Technologies:**
 
 <div align="left">
   <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  /></a>
@@ -79,7 +79,7 @@
 
 </div>
 
-###
+### **Connect With Me:**
 
 <div align="left">
   <a href="https://www.instagram.com/_santhosh_krishnan_sk/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
