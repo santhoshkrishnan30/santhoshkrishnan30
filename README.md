@@ -70,6 +70,21 @@
   <a href="https://aws.amazon.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="30" alt="AWS Logo"/></a>
   <img width="12" />
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel"><img src="https://raw.githubusercontent.com/santhoshkrishnan30/msexcellogo/main/excel.png" height="30" alt="Microsoft Excel Logo"/></a>
+  <img width="12" />
+  <a href="https://hadoop.apache.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Hadoop_logo.svg/1200px-Hadoop_logo.svg.png" height="30" alt="Hadoop Logo"/></a>
+  <img width="12" />
+  <a href="https://spark.apache.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png" height="30" alt="Apache Spark Logo"/></a>
+  <img width="12" />
+  <a href="https://www.snowflake.com/"><img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-ar21.svg" height="30" alt="Snowflake Logo"/></a>
+  <img width="12" />
+  <a href="https://nifi.apache.org/"><img src="https://www.vectorlogo.zone/logos/apache_nifi/apache_nifi-ar21.svg" height="30" alt="Apache NiFi Logo"/></a>
+  <img width="12" />
+  <a href="https://cassandra.apache.org/"><img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-ar21.svg" height="30" alt="Apache Cassandra Logo"/></a>  
+
+
+
+
+
 
 
 
