@@ -1,8 +1,10 @@
-<h2 align="left">Hi 👋! My name is Santhosh Krishnan R  and I'm a Data Science/Data Engineer Enthusiast from Coimbatore.</h2>
+<h2 align="left">Hi 👋! I'm Santhosh Krishnan R  and I'm  Data Science/Data Engineer Enthusiast from Coimbatore,Tamil Nadu,India.</h2>
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" alt="Astro GIF" width="600" height="450"/><br>
+</p>
 
 ###
 
