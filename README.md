@@ -1,10 +1,16 @@
-<h2 align="left">Hi 👋! I'm Santhosh Krishnan R  and I'm  Data Science/Data Engineer Enthusiast from Coimbatore,Tamil Nadu,India.</h2>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">, I'm Santhosh Krishnan R</h1>  
 
 ###
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" alt="Astro GIF" width="600" height="450"/><br>
 </p>
+
+### **About Myself:**
+ - 🚀 Data Science and ⚛ Data Engineer Enthusiast from Coimbatore, India.
+ - 🙍🏽‍♂️ Current: Looking for Internship in 2024.
+ - 😄 Pronouns: He/Him
+ - ⚡ Fun fact: I love playing cricket🏏 and listening to music 🎧.
 
 ###
 
