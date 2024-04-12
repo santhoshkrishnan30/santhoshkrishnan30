@@ -66,6 +66,16 @@
   <a href="https://flask.palletsprojects.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  /></a>
   <img width="12" />
   <a href="https://www.djangoproject.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  /></a>
+  <img width="12" />
+  <a href="https://aws.amazon.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="30" alt="AWS Logo"/></a>
+  <img width="12" />
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Microsoft_Excel_2013-2019_logo.svg/1200px-Microsoft_Excel_2013-2019_logo.svg.png" height="30" alt="Microsoft Excel Logo"/></a>
+
+
+
+
+
+
 </div>
 
 ###
