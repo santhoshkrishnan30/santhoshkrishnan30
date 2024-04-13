@@ -79,7 +79,7 @@
   <img width="12" />
   <a href="https://nifi.apache.org/"><img src="https://www.vectorlogo.zone/logos/apache_nifi/apache_nifi-ar21.svg" height="30" alt="Apache NiFi Logo"/></a>
   <img width="12" />
-  <a href="https://cassandra.apache.org/"><img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-ar21.svg" height="30" alt="Apache Cassandra Logo"/></a>  
+  <a href="https://cassandra.apache.org/"><img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-ar21.svg" height="30" alt="Apache Cassandra Logo"/></a> 
 
 
 
