@@ -103,7 +103,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshkrishnan30&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages"/>
 </div>
 
+
+
+
+
+
 [![](https://visitcount.itsvg.in/api?id=santhoshkrishnan30&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
+
+
 
 
 
