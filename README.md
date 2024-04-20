@@ -101,10 +101,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=santhoshkrishnan30&theme=dark&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=santhoshkrishnan30&theme=dark&hide_border=false" alt="GitHub Streak"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshkrishnan30&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages"/>
+
+
+  [![](https://visitcount.itsvg.in/api?id=santhoshkrishnan30&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
+
 </div>
 
 
-[![](https://visitcount.itsvg.in/api?id=santhoshkrishnan30&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
+
 
 
 
