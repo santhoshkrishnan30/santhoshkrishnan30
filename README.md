@@ -105,7 +105,14 @@
 
   [![](https://visitcount.itsvg.in/api?id=santhoshkrishnan30&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
 </div>
+
+
 
 
 
