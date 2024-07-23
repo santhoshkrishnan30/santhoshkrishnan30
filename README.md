@@ -29,6 +29,8 @@
   <img width="12" />
   <a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  /></a>
   <img width="12" />
+  <a href="https://kubernetes.io/"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" height="30" alt="Kubernetes logo"  /></a>
+  <img width="12" />
   <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  /></a>
   <img width="12" />
   <a href="https://github.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  /></a>
@@ -37,10 +39,11 @@
   <img width="12" />
   <a href="https://numpy.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  /></a>
   <img width="12" />
-  <a href="https://pandas.pydata.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  /> 
-  </a>
+  <a href="https://pandas.pydata.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  /> </a>
   <img width="12" />
-   <a href="https://scikit-learn.org/stable"><img src="https://raw.githubusercontent.com/santhoshkrishnan30/logo/main/scikit-learn.png" height="30" alt="SKlearn  Logo"/></a>
+  <a href="https://opencv.org/"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg" height="30" alt="opencv logo"  /> </a>
+  <img width="12" />
+  <a href="https://scikit-learn.org/stable"><img src="https://raw.githubusercontent.com/santhoshkrishnan30/logo/main/scikit-learn.png" height="30" alt="SKlearn  Logo"/></a>
   <img width="12" />
   <a href="https://www.tensorflow.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  /></a>
   <img width="12" />
@@ -49,6 +52,9 @@
   <a href="https://jupyter.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  /></a>
   <img width="12" />
   <a href="https://www.anaconda.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  /></a>
+  <img width="12" />
+  <a href="https://app.powerbi.com/singleSignOn?ru=https%3A%2F%2Fapp.powerbi.com%2F%3FnoSignUpCheck%3D1"><img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" height="30" 
+  alt="PowerBI logo"  /></a>
   <img width="12" />
   <a href="https://www.canva.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  /></a>
   <img width="12" />
@@ -70,7 +76,8 @@
   <img width="12" />
   <a href="https://aws.amazon.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="30" alt="AWS Logo"/></a>
   <img width="12" />
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel"><img src="https://raw.githubusercontent.com/santhoshkrishnan30/logo/main/microsoft-office-png-logo-4836.png" height="30" alt="Microsoft Excel Logo"/></a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel"><img src="https://raw.githubusercontent.com/santhoshkrishnan30/logo/main/microsoft-office-png-logo-4836.png" height="30" alt="Microsoft Excel 
+   Logo"/></a>
   <img width="12" />
   <a href="https://hadoop.apache.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Hadoop_logo.svg/1200px-Hadoop_logo.svg.png" height="30" alt="Hadoop Logo"/></a>
   <img width="12" />
@@ -80,7 +87,10 @@
   <img width="12" />
   <a href="https://nifi.apache.org/"><img src="https://www.vectorlogo.zone/logos/apache_nifi/apache_nifi-ar21.svg" height="30" alt="Apache NiFi Logo"/></a>
   <img width="12" />
-  <a href="https://cassandra.apache.org/"><img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-ar21.svg" height="30" alt="Apache Cassandra Logo"/></a> 
+  <a href="https://cassandra.apache.org/"><img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-ar21.svg" height="30" alt="Apache Cassandra Logo"/></a>
+  <img width="12" />
+  <a href="https://www.informatica.com/in/"><img src="https://www.vectorlogo.zone/logos/informatica/informatica-ar21.svg" height="30" alt="Informatica Logo"/></a>
+  <img width="12" />
 </div>
 
 ### **Connect With Me:**
