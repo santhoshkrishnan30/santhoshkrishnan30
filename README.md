@@ -56,6 +56,8 @@
   <a href="https://app.powerbi.com/singleSignOn?ru=https%3A%2F%2Fapp.powerbi.com%2F%3FnoSignUpCheck%3D1"><img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" height="30" 
   alt="PowerBI logo"  /></a>
   <img width="12" />
+  <a href="https://www.tableau.com/"><img src="https://raw.githubusercontent.com/santhoshkrishnan30/logo/main/tableau.png" height="30" alt="tableau  Logo"/></a>
+  <img width="12" />
   <a href="https://www.canva.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  /></a>
   <img width="12" />
   <a href="https://tomcat.apache.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="30" alt="tomcat logo"  /></a>
@@ -86,6 +88,8 @@
   <a href="https://www.snowflake.com/"><img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-ar21.svg" height="30" alt="Snowflake Logo"/></a>
   <img width="12" />
   <a href="https://nifi.apache.org/"><img src="https://www.vectorlogo.zone/logos/apache_nifi/apache_nifi-ar21.svg" height="30" alt="Apache NiFi Logo"/></a>
+  <img width="12" />
+  <a href="https://airflow.apache.org/"><img src="https://raw.githubusercontent.com/santhoshkrishnan30/logo/main/Apache Airflow.png" height="30" alt="Apache Airflow Logo"/></a>
   <img width="12" />
   <a href="https://cassandra.apache.org/"><img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-ar21.svg" height="30" alt="Apache Cassandra Logo"/></a>
   <img width="12" />
