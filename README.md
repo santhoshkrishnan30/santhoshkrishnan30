@@ -60,6 +60,8 @@
   <img width="12" />
   <a href="https://www.tableau.com/"><img src="https://raw.githubusercontent.com/santhoshkrishnan30/logo/main/tableau.png" height="30" alt="tableau  Logo"/></a>
   <img width="12" />
+  <a href="https://www.elastic.co/kibana"><img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-ar21.svg" height="30" alt="tableau  Logo"/></a>
+  <img width="12" />
   <a href="https://seaborn.pydata.org/"><img src="https://raw.githubusercontent.com/santhoshkrishnan30/logo/main/seaborn.png" height="30" alt="seaborn  Logo"/></a>
   <img width="12" />
   <a href="https://matplotlib.org//"><img src="https://raw.githubusercontent.com/santhoshkrishnan30/logo/main/Matplotlib.png" height="30" alt="Matplotlib  Logo"/></a>
@@ -86,8 +88,7 @@
   <img width="12" />
   <a href="https://aws.amazon.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="30" alt="AWS Logo"/></a>
   <img width="12" />
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel"><img src="https://raw.githubusercontent.com/santhoshkrishnan30/logo/main/microsoft-office-png-logo-4836.png" height="30" alt="Microsoft Excel 
-   Logo"/></a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel"><img src="https://raw.githubusercontent.com/santhoshkrishnan30/logo/main/microsoft-office-png-logo-4836.png" height="30" alt="Microsoft Excel Logo"/></a>
   <img width="12" />
   <a href="https://hadoop.apache.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Hadoop_logo.svg/1200px-Hadoop_logo.svg.png" height="30" alt="Hadoop Logo"/></a>
   <img width="12" />
