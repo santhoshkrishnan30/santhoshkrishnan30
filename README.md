@@ -47,6 +47,8 @@
   <img width="12" />
   <a href="https://www.tensorflow.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  /></a>
   <img width="12" />
+  <a href="https://keras.io/"><img src="https://raw.githubusercontent.com/santhoshkrishnan30/logo/main/Keras.png" height="30" alt="Keras  Logo"/></a>
+  <img width="12" />
   <a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  /></a>
   <img width="12" />
   <a href="https://jupyter.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  /></a>
@@ -57,6 +59,12 @@
   alt="PowerBI logo"  /></a>
   <img width="12" />
   <a href="https://www.tableau.com/"><img src="https://raw.githubusercontent.com/santhoshkrishnan30/logo/main/tableau.png" height="30" alt="tableau  Logo"/></a>
+  <img width="12" />
+  <a href="https://seaborn.pydata.org/"><img src="https://raw.githubusercontent.com/santhoshkrishnan30/logo/main/seaborn.png" height="30" alt="seaborn  Logo"/></a>
+  <img width="12" />
+  <a href="https://matplotlib.org//"><img src="https://raw.githubusercontent.com/santhoshkrishnan30/logo/main/Matplotlib.png" height="30" alt="Matplotlib  Logo"/></a>
+  <img width="12" />
+  <a href="https://plotly.com/"><img src="https://www.vectorlogo.zone/logos/plotly/plotly-official.svg" height="30" alt="Plotly logo"  /></a>
   <img width="12" />
   <a href="https://www.canva.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  /></a>
   <img width="12" />
