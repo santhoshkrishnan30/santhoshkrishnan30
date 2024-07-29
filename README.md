@@ -60,7 +60,7 @@
   <img width="12" />
   <a href="https://www.tableau.com/"><img src="https://raw.githubusercontent.com/santhoshkrishnan30/logo/main/tableau.png" height="30" alt="tableau  Logo"/></a>
   <img width="12" />
-  <a href="https://www.elastic.co/kibana"><img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-ar21.svg" height="30" alt="tableau  Logo"/></a>
+  <a href="https://www.elastic.co/kibana"><img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-ar21.svg" height="30" alt="kibana  Logo"/></a>
   <img width="12" />
   <a href="https://seaborn.pydata.org/"><img src="https://raw.githubusercontent.com/santhoshkrishnan30/logo/main/seaborn.png" height="30" alt="seaborn  Logo"/></a>
   <img width="12" />
