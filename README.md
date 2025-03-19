@@ -72,11 +72,7 @@
   <img width="12" />
   <a href="https://tomcat.apache.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="30" alt="tomcat logo"  /></a>
   <img width="12" />
-  <a href="https://www.google.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" alt="google logo"  /></a>
-  <img width="12" />
   <a href="https://pytorch.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  /></a>
-  <img width="12" />
-  <a href="https://www.google.com/chrome/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="30" alt="chrome logo"  /></a>
   <img width="12" />
   <a href="https://azure.microsoft.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  /></a>
   <img width="12" />
