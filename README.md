@@ -60,8 +60,6 @@
   <img width="12" />
   <a href="https://www.tableau.com/"><img src="https://raw.githubusercontent.com/santhoshkrishnan30/logo/main/tableau.png" height="30" alt="tableau  Logo"/></a>
   <img width="12" />
-  <a href="https://www.elastic.co/kibana"><img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-ar21.svg" height="30" alt="kibana  Logo"/></a>
-  <img width="12" />
   <a href="https://seaborn.pydata.org/"><img src="https://raw.githubusercontent.com/santhoshkrishnan30/logo/main/seaborn.png" height="30" alt="seaborn  Logo"/></a>
   <img width="12" />
   <a href="https://matplotlib.org//"><img src="https://raw.githubusercontent.com/santhoshkrishnan30/logo/main/Matplotlib.png" height="30" alt="Matplotlib  Logo"/></a>
@@ -91,8 +89,6 @@
   <a href="https://spark.apache.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png" height="30" alt="Apache Spark Logo"/></a>
   <img width="12" />
   <a href="https://www.snowflake.com/"><img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-ar21.svg" height="30" alt="Snowflake Logo"/></a>
-  <img width="12" />
-  <a href="https://nifi.apache.org/"><img src="https://www.vectorlogo.zone/logos/apache_nifi/apache_nifi-ar21.svg" height="30" alt="Apache NiFi Logo"/></a>
   <img width="12" />
   <a href="https://airflow.apache.org/"><img src="https://raw.githubusercontent.com/santhoshkrishnan30/logo/main/Apache Airflow.png" height="30" alt="Apache Airflow Logo"/></a>
   <img width="12" />
