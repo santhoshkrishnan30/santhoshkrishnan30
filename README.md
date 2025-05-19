@@ -8,7 +8,6 @@
 
 ### **About Myself:**
  - 🚀 Data Science and ⚛ Data Engineer Enthusiast from Coimbatore, Tamil Nadu, India.
- - 🙍🏽‍♂️ Current: Looking for Internship in 2024.
  - 😄 Pronouns: He/Him
  - ⚡ Fun fact: I love playing cricket🏏 and listening to music 🎧.
 
