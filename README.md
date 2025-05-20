@@ -15,7 +15,7 @@
    
 ### **🎓 Education:**
 
- - 🎓 MSc in Data Science at CIT
+ - 🎓 MSc in Data Science at Coimbatore Institute Of Technology.
 
 ### **Tools and Technologies:**
 
