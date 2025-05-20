@@ -4,15 +4,16 @@
 
 
 -----------------------------------------------------------
-👨🏻‍💻 **About Me:** <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" min-width="300px" max-width="300px" width="350px" align="right"> 
--🚀 Data Science and ⚛ Data Engineer Enthusiast from Coimbatore, Tamil Nadu, India.
--😄 Pronouns: He/Him
--🔭 Currently Working On: Data Science, Machine Learning, Data Analytics and Data Engieering Projects.
--💬 Ask Me About Data Science, Machine Learning, Data Engineering, and Data Analytics.
--⚡ Fun fact: I love solving real-world problems with data and building innovative solutions!
--✨ Check my 🌐 [Website](https://santhoshkrishnan30.github.io/) 
--📫 How to reach me: 📞 [Schedule Call](https://topmate.io/santhoshkrishnan30/)
 
+👨🏻‍💻 **About Me:** <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" min-width="300px" max-width="300px" width="350px" align="right"> 
+
+- 🚀 Data Science and ⚛ Data Engineer Enthusiast from Coimbatore, Tamil Nadu, India.
+- 😄 Pronouns: He/Him
+- 🔭 Currently Working On: Data Science, Machine Learning, Data Analytics and Data Engineering Projects.
+- 💬 Ask Me About Data Science, Machine Learning, Data Engineering, and Data Analytics.
+- ⚡ Fun fact: I love solving real-world problems with data and building innovative solutions!
+- ✨ Check my 🌐 [Website](https://santhoshkrishnan30.github.io/) 
+- 📫 How to reach me: 📞 [Schedule Call](https://topmate.io/santhoshkrishnan30/)
 
 
    
@@ -20,7 +21,7 @@
 
  - 🎓 MSc in Data Science at Coimbatore Institute Of Technology.
 
-### **Tools and Technologies:**
+### **🔧Tools and Technologies:**
 
 <div align="left">
   <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  /></a>
@@ -102,7 +103,7 @@
   <img width="12" />
 </div>
 
-### **Connect With Me:**
+### **🔗Connect With Me:**
 
 <div align="left">
   <a href="https://www.instagram.com/_santhosh_krishnan_sk/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
@@ -135,7 +136,7 @@
 </div>
 
 <p align="center">
-Do you want to contact me for collaboration opportunities? ⟶ <a href="https://santhoshkrishnan30.github.io/">View My Services</a><br>
+Do you want to contact me for collaboration opportunities? ⟶ <a href="https://santhoshkrishnan30.github.io/#services">View My Services</a><br>
 <b> Show some ❤️ by starring some of the repositories!.</p> </div>
 
 
