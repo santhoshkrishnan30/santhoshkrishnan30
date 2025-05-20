@@ -10,8 +10,9 @@
  - 🚀 Data Science and ⚛ Data Engineer Enthusiast from Coimbatore, Tamil Nadu, India.
  - 😄 Pronouns: He/Him
  - 🔭 Currently Working On: Data Science, Machine Learning, Data Analytics and Data Engieering Projects.
- - 💬 Ask Me About Data Science, Machine Learning, Data Engineering, and Data Analytics
+ - 💬 Ask Me About Data Science, Machine Learning, Data Engineering, and Data Analytics.
  - ⚡ Fun fact: I love solving real-world problems with data and building innovative solutions!
+   
 ### **🎓 Education:**
 
  - 🎓 MSc in Data Science at CIT
