@@ -137,7 +137,7 @@
 
 <p align="center">
 Do you want to contact me for collaboration opportunities? ⟶ <a href="https://santhoshkrishnan30.github.io/#services">View My Services</a><br>
-<b> Show some ❤️ by starring some of the repositories!.</p> </div>
+<b> Show some ❤️ by starring(⭐) some of the repositories!.</p> </div>
 
 
 
