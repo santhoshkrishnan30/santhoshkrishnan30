@@ -9,7 +9,12 @@
 ### **About Myself:**
  - 🚀 Data Science and ⚛ Data Engineer Enthusiast from Coimbatore, Tamil Nadu, India.
  - 😄 Pronouns: He/Him
- - ⚡ Fun fact: I love playing cricket🏏 and listening to music 🎧.
+ - 🔭 Currently Working On: Data Science, Machine Learning, Data Analytics and Data Engieering Projects.
+ - 💬 Ask Me About Data Science, Machine Learning, Data Engineering, and Data Analytics
+ - ⚡ Fun fact: I love solving real-world problems with data and building innovative solutions!
+### **🎓 Education:**
+
+ - 🎓 MSc in Data Science at CIT
 
 ### **Tools and Technologies:**
 
