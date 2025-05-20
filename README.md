@@ -1,17 +1,20 @@
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">, I'm Santhosh Krishnan R</h1>
 
-###
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" alt="Astro GIF" width="600" height="450"/><br>
-</p>
 
-### **About Myself:**
- - 🚀 Data Science and ⚛ Data Engineer Enthusiast from Coimbatore, Tamil Nadu, India.
- - 😄 Pronouns: He/Him
- - 🔭 Currently Working On: Data Science, Machine Learning, Data Analytics and Data Engieering Projects.
- - 💬 Ask Me About Data Science, Machine Learning, Data Engineering, and Data Analytics.
- - ⚡ Fun fact: I love solving real-world problems with data and building innovative solutions!
+
+-----------------------------------------------------------
+👨🏻‍💻 **About Me:** <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" min-width="300px" max-width="300px" width="350px" align="right"> 
+-🚀 Data Science and ⚛ Data Engineer Enthusiast from Coimbatore, Tamil Nadu, India.
+-😄 Pronouns: He/Him
+-🔭 Currently Working On: Data Science, Machine Learning, Data Analytics and Data Engieering Projects.
+-💬 Ask Me About Data Science, Machine Learning, Data Engineering, and Data Analytics.
+-⚡ Fun fact: I love solving real-world problems with data and building innovative solutions!
+-✨ Check my 🌐 [Website](https://santhoshkrishnan30.github.io/) 
+-📫 How to reach me: 📞 [Schedule Call](https://topmate.io/santhoshkrishnan30/)
+
+
+
    
 ### **🎓 Education:**
 
@@ -130,6 +133,10 @@
 
 
 </div>
+
+<p align="center">
+Do you want to contact me for collaboration opportunities? ⟶ <a href="https://santhoshkrishnan30.github.io/">View My Services</a><br>
+<b> Show some ❤️ by starring some of the repositories!.</p> </div>
 
 
 
