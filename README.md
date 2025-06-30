@@ -105,6 +105,8 @@
   <img width="12" />
   <a href="https://now.informatica.com/IICS-Cloud-Data-Integration-Services-onDemand.html"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTbIx_NINb0NG1w78rXySN-Yy042PpFLlu2A&s" height="30" alt="Informatica Logo"/></a>
   <img width="12" />
+  <a href="https://www.databricks.com/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4Yb7DInlHLg7OmHr3wutAjndwNS-9UqW9Bg&s" height="30" alt="Informatica Logo"/></a>
+  <img width="12" />
 </div>
 
 ### **🔗Connect With Me:**
