@@ -12,7 +12,6 @@
 👨🏻‍💻 **About Me:** <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" min-width="300px" max-width="300px" width="350px" align="right"> 
 
 - 🚀 Data Science and ⚛ Data Engineer Enthusiast from Coimbatore, Tamil Nadu, India.
-- 😄 Pronouns: He/Him
 - 🔭 Currently Working On: Data Science, Machine Learning, Data Analytics and Data Engineering Projects.
 - 💬 Ask Me About Data Science, Machine Learning, Data Engineering, and Data Analytics.
 - ⚡ Fun fact: I love solving real-world problems with data and building innovative solutions!
@@ -54,8 +53,6 @@
   <a href="https://kubernetes.io/"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21~bgwhite.svg" height="30" alt="Kubernetes logo"  /></a>
   <img width="12" />
   <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  /></a>
-  <img width="12" />
-  <a href="https://about.gitlab.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab logo"  /></a>
   <img width="12" />
   <a href="https://numpy.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  /></a>
   <img width="12" />
