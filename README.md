@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=00BFA6&center=true&width=900&lines=Data+Scientist+%7C+AIML+%7C+Data+Engineer;ETL+Pipelines+%7C+Cloud+%7C+Big+Data;Transforming+data+into+scalable+insights+and+business-driven+solutions" />
 </p>
 
-
-
-
-
 -----------------------------------------------------------
 
 👨🏻‍💻 **About Me:** <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" min-width="300px" max-width="300px" width="350px" align="right"> 
@@ -125,29 +121,51 @@
   <a href="https://t.me/Santhosh_krishnan_sk"><img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  /></a>
   <a href="https://x.com/Santhos83686951"><img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="x logo"  /></a>
   <a href="https://wa.me/qr/4E72VQPCQO52E1"><img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  /></a>
-  <a href="https://www.facebook.com/sk30603/><img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  /></a>
+  <a href="https://www.facebook.com/sk30603/"><img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  /></a>
   <a href="https://topmate.io/santhoshkrishnan30/"><img src="https://img.shields.io/static/v1?message=Topmate&logo=calendar&label=&color=F5F5F5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="topmate logo"  /></a>
 </div>
 
+### 📊 GitHub Activity:
 
-### 📊 My Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=santhoshkrishnan30&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=santhoshkrishnan30&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+   
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=santhoshkrishnan30&theme=dracula&hide_border=true&area=true)
+
+</div>
+
+# 📊 GitHub Stats:
+![](https://nirzak-streak-stats.vercel.app/?user=santhoshkrishnan30&theme=radical&hide_border=false)<br/>
 
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=santhoshkrishnan30&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=santhoshkrishnan30&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-  [![](https://visitcount.itsvg.in/api?id=santhoshkrishnan30&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
+---
+[![](https://visitcount.itsvg.in/api?id=santhoshkrishnan30&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+### 💻 Most Used Languages:
 
-     
+<div align="center">
 
+[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=santhoshkrishnan30&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=santhoshkrishnan30&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
+</div>
+
+---
+
+<div align="center">
+
+[![](https://visitcount.itsvg.in/api?id=santhoshkrishnan30&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 </div>
 
 <p align="center">
-Do you want to contact me for collaboration opportunities? ⟶ <a href="https://santhoshkrishnan30.github.io/#services">View My Services</a><br>
-<b> Show some ❤️ by starring(⭐) some of the repositories!.</p> </di
+Want to contact me for collaboration opportunities? ⟶ <a href="https://santhoshkrishnan30.github.io/#services">View My Services</a><br>
+<b> Show some ❤️ by starring(⭐) some of the repositories!</b>
+</p>
