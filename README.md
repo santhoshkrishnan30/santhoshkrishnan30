@@ -30,7 +30,7 @@
 
  - 🎓 MSc in Data Science at Coimbatore Institute Of Technology.
 
-### **🔧Tools and Technologies:**
+### **🔧🧠 Platforms, Frameworks & Infra I Use:**
 
 <div align="left">
   <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  /></a>
