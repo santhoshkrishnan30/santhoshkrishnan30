@@ -84,6 +84,10 @@
   <img width="12" />
   <a href="https://pytorch.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  /></a>
   <img width="12" />
+  <a href="https://www.langchain.com/"><img src="https://raw.githubusercontent.com/santhoshkrishnan30/logo/main/Langchain.png" height="40" alt="Matplotlib  Logo"/></a>
+  <img width="12" />
+  <a href="https://huggingface.co/"><img src="https://raw.githubusercontent.com/santhoshkrishnan30/logo/main/huggingface.png" height="40" alt="Matplotlib  Logo"/></a>
+  <img width="12" />
   <a href="https://azure.microsoft.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  /></a>
   <img width="12" />
   <a href="https://fastapi.tiangolo.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo"  /></a>
