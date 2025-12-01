@@ -1,7 +1,7 @@
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">, I'm Santhosh Krishnan R</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=00BFA6&center=true&width=900&lines=Data+Scientist+%7C+AIML+%7C+Data+Engineer;ETL+Pipelines+%7C+Cloud+%7C+Big+Data;Transforming+data+into+scalable+insights+and+business-driven+solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=00BFA6&center=true&width=900&lines=Data+Science+%7C+AIML+%7C+Data+Engineer;ETL+Pipelines+%7C+Cloud+%7C+Big+Data;Transforming+data+into+scalable+insights+and+business-driven+solutions" />
 </p>
 
 -----------------------------------------------------------
