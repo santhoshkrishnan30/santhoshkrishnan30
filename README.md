@@ -15,16 +15,6 @@
 - ✨ Check my 🌐 [Website](https://santhoshkrishnan30.github.io/) 
 - 📫 How to reach me: 📞 [Schedule Call](https://topmate.io/santhoshkrishnan30/)
 
-### **📚 Currently Learning:**
-
-- 🤖 **Generative AI** - Exploring foundation models and prompt engineering techniques
-- 🧠 **Agentic AI & AI Agents** - Building autonomous AI systems and multi-agent workflows
-- 🛠️ **DBT (Data Build Tool)** - Modern data transformation and analytics engineering
-- 📊 **Open Table Formats** - Delta Lake, Iceberg, and Hudi for data lake architectures
-- 📁 **File Formats** - Parquet, Avro, and columnar storage optimization
-- 👁️ **Data Observability** - Monitoring data quality, lineage, and pipeline health
-- 🏗️ **Modern Data Stack** - Cloud-native data architectures and best practices
-
    
 ### **🎓 Education:**
 
