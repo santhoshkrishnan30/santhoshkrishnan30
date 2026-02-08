@@ -92,7 +92,7 @@
   <img width="12" />
   <a href="https://hadoop.apache.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Hadoop_logo.svg/1200px-Hadoop_logo.svg.png" height="30" alt="Hadoop Logo"/></a>
   <img width="12" />
-  <a href="https://spark.apache.org/"><img src="https://db0dce98.delivery.rocketcdn.me/es/files/2022/08/apache-spark.webp" height="30" alt="Apache Spark Logo"/></a>
+  <a href="https://spark.apache.org/"><img src="https://img.icons8.com/?size=100&id=0cRqPqlItA0E&format=png&color=000000" height="30" alt="Apache Spark Logo"/></a>
   <img width="12" />
   <a href="https://www.snowflake.com/"><img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-ar21.svg" height="30" alt="Snowflake Logo"/></a>
   <img width="12" />
