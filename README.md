@@ -20,7 +20,7 @@
 
  - 🎓 MSc in Data Science at Coimbatore Institute Of Technology.
 
-### **🔧🧠 Platforms, Frameworks & Infra I Use:**
+### **🔧🧠 Platforms, Frameworks & Infra I Worked on:**
 
 <div align="left">
   <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  /></a>
